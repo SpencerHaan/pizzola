@@ -1,0 +1,6 @@
+version: "3"
+services:
+  pizzola:
+    container_name: pizzola
+    build:
+      context: .
