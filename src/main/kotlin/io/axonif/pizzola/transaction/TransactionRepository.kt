@@ -1,7 +1,5 @@
-package io.axonif.pizzamafia.transaction
+package io.axonif.pizzola.transaction
 
-import org.omg.CORBA.TRANSIENT
-import java.math.BigDecimal
 import java.util.NoSuchElementException
 
 class TransactionRepository {

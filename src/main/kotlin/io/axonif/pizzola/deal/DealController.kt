@@ -1,6 +1,6 @@
-package io.axonif.pizzamafia.deal
+package io.axonif.pizzola.deal
 
-import io.axonif.pizzamafia.order.OrderController
+import io.axonif.pizzola.order.OrderController
 import java.math.BigDecimal
 import java.math.RoundingMode
 import javax.ws.rs.GET

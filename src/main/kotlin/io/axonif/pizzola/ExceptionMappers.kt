@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
 import java.lang.Exception
 import javax.ws.rs.core.Response

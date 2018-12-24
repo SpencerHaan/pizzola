@@ -1,7 +1,7 @@
-package io.axonif.pizzamafia.wallet
+package io.axonif.pizzola.wallet
 
-import io.axonif.pizzamafia.transaction.Transaction
-import io.axonif.pizzamafia.transaction.TransactionRepository
+import io.axonif.pizzola.transaction.Transaction
+import io.axonif.pizzola.transaction.TransactionRepository
 import java.math.BigDecimal
 
 class WalletService private constructor(val transactionRepo: TransactionRepository) {

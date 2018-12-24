@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia.deal
+package io.axonif.pizzola.deal
 
 import java.math.BigDecimal
 

@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia.order
+package io.axonif.pizzola.order
 
 import java.time.Instant
 import java.util.*

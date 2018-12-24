@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
 import javax.ws.rs.core.Feature
 import javax.ws.rs.core.FeatureContext

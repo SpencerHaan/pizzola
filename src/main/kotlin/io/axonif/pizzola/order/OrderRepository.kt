@@ -1,6 +1,6 @@
-package io.axonif.pizzamafia.order
+package io.axonif.pizzola.order
 
-import io.axonif.pizzamafia.NoSuchEntityException
+import io.axonif.pizzola.NoSuchEntityException
 
 
 class OrderRepository {

@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia.event
+package io.axonif.pizzola.event
 
 class EventRepository {
     private val events = mutableMapOf<String, Event>()

@@ -1,7 +1,7 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
-import io.axonif.pizzamafia.deal.DealController
-import io.axonif.pizzamafia.order.OrderController
+import io.axonif.pizzola.deal.DealController
+import io.axonif.pizzola.order.OrderController
 import javax.ws.rs.core.Application
 
 

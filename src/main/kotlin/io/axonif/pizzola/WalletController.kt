@@ -1,6 +1,6 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
-import io.axonif.pizzamafia.wallet.WalletService
+import io.axonif.pizzola.wallet.WalletService
 import java.math.BigDecimal
 import javax.ws.rs.*
 import javax.ws.rs.core.Response

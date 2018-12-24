@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
 import io.undertow.Handlers
 import io.undertow.Undertow

@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia.event
+package io.axonif.pizzola.event
 
 import java.time.Instant
 

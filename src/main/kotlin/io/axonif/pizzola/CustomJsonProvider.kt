@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
 import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.databind.DeserializationFeature

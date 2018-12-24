@@ -1,4 +1,4 @@
-package io.axonif.pizzamafia.order
+package io.axonif.pizzola.order
 
 import com.fasterxml.jackson.annotation.JsonCreator
 import com.fasterxml.jackson.annotation.JsonProperty

@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.axonif</groupId>
-    <artifactId>pizza-mafia</artifactId>
-    <version>1.0</version>
+    <artifactId>pizzola</artifactId>
+    <version>0.1.0</version>
     <packaging>jar</packaging>
 
-    <name>io.axonif pizza-mafia</name>
+    <name>Pizzola</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

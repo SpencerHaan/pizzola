@@ -1,8 +1,8 @@
-package io.axonif.pizzamafia
+package io.axonif.pizzola
 
-import io.axonif.pizzamafia.event.*
-import io.axonif.pizzamafia.order.OrderController
-import io.axonif.pizzamafia.wallet.WalletService
+import io.axonif.pizzola.event.*
+import io.axonif.pizzola.order.OrderController
+import io.axonif.pizzola.wallet.WalletService
 import javax.ws.rs.*
 
 @Path("events")
