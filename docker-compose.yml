@@ -1,6 +1,16 @@
 version: "3"
+
+networks:
+  default:
+
 services:
-  pizzola:
-    container_name: pizzola
+  pizzola-core:
+    container_name: pizzola-core
     build:
-      context: .
+      context: pizzola-core
+    ports:
+      - "8080:8080"
+    networks:
+      default:
+        aliases:
+          - pizzola.docker.local
